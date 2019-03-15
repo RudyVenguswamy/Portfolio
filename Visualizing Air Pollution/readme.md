@@ -1,0 +1,1 @@
+Welcome to Visualizing Air Pollution. Using data from the EPA (synthesized by a user on Kaggle), I clean the data and use it to visualize air pollution in the US. For a walkthrough of my code and an explanation of the steps involved, visit https://sites.google.com/berkeley.edu/rudy-venguswamy/home/air-pollution-visualized.
