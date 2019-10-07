@@ -9,7 +9,7 @@ For my recommendation of what to look at depending on your interest:
 - `Hardcore Machine Learning: Improving_ResNet_ComputerVision_DeepNetwork`
 - `Data Science Philosophy: Monte_Carlo_For_Pi`
 
-Instructions on Viewing:
+#### Instructions on Viewing:
 Github has had challenges with rendering Jupyter Notebooks recently. If a notebook does not load for you, paste the URL for the project into the search bar at https://nbviewer.jupyter.org/ to view that notebook. 
 
 For example, pasting the ID for my ResNet Notebook takes you to:
